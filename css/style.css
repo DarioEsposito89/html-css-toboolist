@@ -52,3 +52,92 @@ nav{
     background-color: white;
     color: #c9cfd3;
 }
+
+main{
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    padding: 10px 20px; 
+}
+
+.freccetta{
+    font-size: 20px;
+}
+
+.titoli{
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.elenco-attivita{
+    margin-top: 20px;
+}
+
+
+.visto{
+    height: 50;
+    width: 50;
+    border: 2px solid #63c0a9;
+    border-radius: 50%;
+    margin-right: 5px;
+    display: inline-block;
+    color: #63c0a9;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.croce{
+    height: 50;
+    width: 50;
+    margin-right: 5px;
+    display: inline-block;
+    color: #ec6d67;
+    border: 2px solid #ec6d67;
+    border-radius: 50%;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.attivita{
+    font-size: 15px;
+}
+
+.badge1,.badge2, .badge3, .badge4, .badge5, .badge6, .badge7, .badge8{
+    margin-left: 5px;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 10px;  
+}
+
+.badge1{
+    background-color: #45abea;
+}
+
+.badge2{
+    background-color: #45abea;
+}
+
+.badge3{
+    background-color: #9c72e4;
+}
+
+.badge4{
+    background-color: #64c0a9;
+}
+
+.badge5{
+    background-color: #f29e33;
+}
+
+.badge6{
+    background-color: #d863a1;
+}
+
+.badge7{
+    background-color: #b0c926;
+}
+
+.badge8{
+    background-color: #45abea;
+}
