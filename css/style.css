@@ -9,6 +9,7 @@ body{
     background-color: #f6f8f9;
 }
 
+/* Testata con logo e h1 */
 header{
     background-color: white;
     height: 100px;
@@ -25,7 +26,7 @@ img{
     vertical-align: middle;
     margin-left: 25px;
 }
-
+/* Tasti di navigazione */
 nav{
     background-color: white;
     width: 800px;
@@ -53,6 +54,7 @@ nav{
     color: #c9cfd3;
 }
 
+/* parte centrale con elenco compiti */
 main{
     background-color: white;
     width: 800px;
